@@ -1,0 +1,6 @@
+{
+  "name": "SWEENEY'S DESSERT | Artisan Yogurt & Sweet Treats",
+  "description": "Premium handcrafted Nigerian artisan yogurt and gourmet dessert pots with local bank transfer and mobile money checkout, cold-chain delivery, and order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
